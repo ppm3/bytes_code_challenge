@@ -1,5 +1,4 @@
-# Full Time Force - Test
-
+# Code Challenge
 This repository is a monorepo containing both the server and client applications for Bytes project. It's structured to facilitate the development, testing, and deployment of both parts of the project in a cohesive manner.
 
 
