@@ -6,8 +6,8 @@ This repository is a monorepo containing both the server and client applications
 
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Client](#client)
 - [Server](#server)
+- [Client](#client)
 - [License](#license)
 
 ## Project Structure
@@ -25,17 +25,17 @@ Before you begin, ensure you have the following installed:
 - Git (for cloning the repository)
 
 
-## Client
-
-1. Navigate to the client directory: `cd frontend`
-
-2. Follow the instructions in [README.MD](frontend/README.md)
-
 ## Server
 
 1. Navigate to the server directory: `cd backend`
 
 2. Follow the instructions in [README.MD](backend/README.md)
+
+## Client
+
+1. Navigate to the client directory: `cd frontend/cc-crud`
+
+2. Follow the instructions in [README.MD](frontend/cc-crud/README.md)
 
 
 ## License
