@@ -82,7 +82,7 @@ This project is a Message API created with Python and Django.
 
 3. API Endpoints
 
-Below are the available API endpoints in the application:
+    Below are the available API endpoints in the application:
 
     - `/health-check`  
     **View**: `messagesAPI.views.health_check`  
